@@ -135,8 +135,8 @@ h1 {
 }
 
 td {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   text-align: center;
   font-size:1.5em;
 }
@@ -173,8 +173,6 @@ td {
 }
 
 .blank {
-  width: 40px;
-  height: 40px;
   text-align: center;
 }
 
@@ -182,7 +180,7 @@ td {
   border: 2px solid #222;
   background: radial-gradient(80% 80%, white, gray);
   font-weight: bold;
-  padding: 2px 9px 4px;
+  padding: 2px 3px 2px;
   color: #000;
   text-align: left;
 }
@@ -191,7 +189,7 @@ td {
   border: 2px solid #222;
   background: radial-gradient(25px 25px, yellow, darkgray);
   font-weight: bold;
-  padding: 2px 9px 4px;
+  padding: 2px 3px 2px;
   color: #000;
   text-align: left;
 }
