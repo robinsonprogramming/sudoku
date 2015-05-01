@@ -7,6 +7,11 @@
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
   background:#999;
 }
+.dropdown-menu{
+  top:10%;
+  left:10%;
+}
 .dropdown-menu > li, a{
+  cursor:pointer;
   font-size:1em;
 }
